@@ -1,0 +1,105 @@
+
+
+### **🔹 Input 1: Low Anxiety Case**
+```json
+{
+  "GADE_Generalized_Anxiety_disorder": "Not at all difficult",
+  "SWL_Satisfaction_of_work_life": 5,
+  "Game": "Minecraft",
+  "Platform": "PC",
+  "Hours": 2,
+  "earnings": "I play for fun",
+  "whyplay": "relaxing",
+  "Gender": "Female",
+  "Age": 22,
+  "Work": "Employed",
+  "Degree": "Master's",
+  "Birthplace": "Canada",
+  "Residence": "Canada"
+}
+```
+
+---
+
+### **🔹 Input 2: Moderate Anxiety Case**
+```json
+{
+  "GADE_Generalized_Anxiety_disorder": "Somewhat difficult",
+  "SWL_Satisfaction_of_work_life": 3,
+  "Game": "Call of Duty",
+  "Platform": "Console (PS, Xbox, ...)",
+  "Hours": 8,
+  "earnings": "Competitive gaming",
+  "whyplay": "excitement",
+  "Gender": "Male",
+  "Age": 28,
+  "Work": "Freelancer",
+  "Degree": "Bachelor's",
+  "Birthplace": "USA",
+  "Residence": "USA"
+}
+```
+---
+
+### **🔹 Input 3: High Anxiety Case**
+```json
+{
+  "GADE_Generalized_Anxiety_disorder": "Very difficult",
+  "SWL_Satisfaction_of_work_life": 2,
+  "Game": "Dark Souls",
+  "Platform": "PC",
+  "Hours": 10,
+  "earnings": "Escape from reality",
+  "whyplay": "stress relief",
+  "Gender": "Non-binary",
+  "Age": 30,
+  "Work": "Unemployed",
+  "Degree": "High School",
+  "Birthplace": "Germany",
+  "Residence": "Germany"
+}
+```
+
+---
+
+### **🔹 Input 4: Severe Anxiety Case**
+```json
+{
+  "GADE_Generalized_Anxiety_disorder": "Extremely difficult",
+  "SWL_Satisfaction_of_work_life": 1,
+  "Game": "League of Legends",
+  "Platform": "PC",
+  "Hours": 16,
+  "earnings": "Professional gaming",
+  "whyplay": "avoiding real life",
+  "Gender": "Male",
+  "Age": 21,
+  "Work": "Student",
+  "Degree": "Undergraduate",
+  "Birthplace": "India",
+  "Residence": "India"
+}
+```
+```
+
+
+
+### **🔹 Input 5: Borderline Case (Between High & Severe Anxiety)**
+```json
+{
+  "GADE_Generalized_Anxiety_disorder": "Very difficult",
+  "SWL_Satisfaction_of_work_life": 2,
+  "Game": "Elden Ring",
+  "Platform": "Console (PS, Xbox, ...)",
+  "Hours": 14,
+  "earnings": "Streaming",
+  "whyplay": "escaping stress",
+  "Gender": "Female",
+  "Age": 26,
+  "Work": "Part-time",
+  "Degree": "Bachelor's",
+  "Birthplace": "UK",
+  "Residence": "UK"
+}
+```
+
