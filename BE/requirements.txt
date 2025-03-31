@@ -1,0 +1,17 @@
+flask
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+fastapi
+uvicorn
+pydantic
+psycopg2-binary
+python-dotenv
+#pip install fastapi uvicorn psycopg2-binary joblib pandas python-dotenv scikit-learn
+python-jose[cryptography]
+PyJWT
+python-multipart
